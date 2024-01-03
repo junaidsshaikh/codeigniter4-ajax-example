@@ -1,0 +1,18 @@
+WARNING - 2024-01-03 06:12:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\signup\Signup::$login is deprecated in APPPATH\Controllers\signup\Signup.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\signup\Signup->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\github\\infovistar.in\\ci4\\public\\index.php')
+WARNING - 2024-01-03 06:12:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\signup\Signup::$ip_address is deprecated in APPPATH\Controllers\signup\Signup.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\signup\Signup->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\github\\infovistar.in\\ci4\\public\\index.php')
+WARNING - 2024-01-03 06:12:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\signup\Signup::$datetime is deprecated in APPPATH\Controllers\signup\Signup.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\signup\Signup->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\github\\infovistar.in\\ci4\\public\\index.php')
